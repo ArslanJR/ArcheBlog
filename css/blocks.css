@@ -1,0 +1,18 @@
+header{
+    margin: 0;
+    padding: 0;
+}
+
+#H1_head{
+    display: inline;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+
+#DIV_head{
+    display: inline;
+    align-items: center;
+}
